@@ -1,0 +1,13 @@
+{
+    "name": "dillingham/vuewind",
+    "description": "vue tailwind axios vue-router",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Dillingham",
+            "email": "brian@dillingham.dev"
+        }
+    ],
+    "require": {}
+}
